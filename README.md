@@ -3,7 +3,7 @@
     <img src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png" height="96">
   </a>
 
-  <p align="center">Rust Runtime for Vercel Functions.</p>
+  <p align="center">Rust SDK for Vercel Edge Config.</p>
 </p>
 
 <div align="center">
